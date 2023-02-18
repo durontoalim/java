@@ -8,8 +8,6 @@ public class Main{
         Student student1 = new Student();
         Student student2 = new Student();
         
-        
-        
-        System.out.println(student.count());
+        student.displayInfo();
     }
 }
